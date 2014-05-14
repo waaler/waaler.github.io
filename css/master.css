@@ -1,4 +1,8 @@
+body {
+  background-color: #FDFDF4;
+}
+
 .wrap {
   text-align: center;
-  margin-top: 20em;
+  margin-top: 3em;
 }
